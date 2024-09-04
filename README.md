@@ -6,7 +6,7 @@ This repository provides guidance and scripts for managing user administration i
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [User Creation](#createUser.js)
 - [Usage](#usage)
 - [Scripts](#scripts)
 - [Contributing](#contributing)
