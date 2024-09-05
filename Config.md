@@ -18,10 +18,10 @@ The available configuration options are as follows:
 - `redactHistory` - Whether to redact sensitive information from history.
 To retrieve the value of a specific configuration option, use the config.get() method. As an example, here’s the command to get the current value of enableTelemetry:
 
-'''config.get('enableTelemetry')''' // returns true or false
+`config.get('enableTelemetry')` // returns true or false
 To set the value of a specific configuration option, use the config.set() method, and pass in the name of the option and the value that you want to set:
 
-'''config.set('enableTelemetry', false)'''
+`config.set('enableTelemetry', false)`
 To reset the value of a specific configuration option, use the config.reset() method, and pass in the name of the option that you want to reset:
 
-'''config.reset('enableTelemetry')'''
+`config.reset('enableTelemetry')`
