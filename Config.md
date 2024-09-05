@@ -1,7 +1,7 @@
 Configure mongosh by Using the config API
 The config API allows you to configure the behavior of mongosh by retrieving, setting, and resetting configuration options. To get a list of the available configuration options, run the following command:
 
-config
+`config` <br>
 The available configuration options are as follows:
 
 - `displayBatchSize` - The number of documents to display when using the `it` iterator.
